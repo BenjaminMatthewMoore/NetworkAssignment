@@ -1,0 +1,9 @@
+dep/
+bin/
+obj/
+AIENetworking.sln
+AIENetworking.sdf
+ClientApplication.vcxproj
+ClientApplication.vcxproj.filters
+ServerApplication.vcxproj.filters
+ServerApplication.vcxproj
